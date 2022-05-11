@@ -2,7 +2,9 @@
 Este es el primer desafío propuesto por Alura Latam en el marco del Programa ONE. Las tecnologías que se utilizan son: HTML, CSS y JavaScript. #challengeonecodificador2
 
 Veamos al programa en acción:
-https://user-images.githubusercontent.com/78104919/167878559-0225ba32-87bd-43aa-963a-92c1687fc47c.mp4
+
+https://user-images.githubusercontent.com/78104919/167885525-939d1774-c322-4dd5-82da-da70d7d1b568.mp4
+
 
 ## Descripción
 Realizar una aplicación que encripta textos para intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
