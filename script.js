@@ -56,7 +56,7 @@ function encrypt(){
     copyButton.style.display = 'inline';
 }
 
-encryptButton.onclick = encrypt;
+encryptButton.addEventListener('click', encrypt);
 
 function decrypt(){
     let text = document.getElementById('textarea').value.toLowerCase();
@@ -69,7 +69,7 @@ function decrypt(){
     copyButton.style.display = 'inline';
 }
 
-decryptButton.onclick = decrypt;
+decryptButton.addEventListener('click', decrypt);
 
 function copy(){
     let text = document.getElementById('textarea');
@@ -80,4 +80,4 @@ function copy(){
     alert('¡Copiado!');
 }
 
-copyButton.onclick = copy;
+copyButton.addEventListener('click', copy);
