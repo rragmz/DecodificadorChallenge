@@ -72,9 +72,11 @@ function decrypt(){
 decryptButton.onclick = decrypt;
 
 function copy(){
+    let text = document.getElementById('textarea');
     let content = document.getElementById('right-p');
     content.select();
     document.execCommand("copy");
+    text.value = "";
     alert('¡Copiado!');
 }
 
