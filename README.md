@@ -1,4 +1,4 @@
-# Encriptador de texto
+# Encriptador de texto :computer:
 Este es el primer desafío propuesto por Alura Latam en el marco del Programa ONE. Las tecnologías que se utilizan son: HTML, CSS y JavaScript. #challengeonecodificador2
 
 Veamos al programa en acción:
